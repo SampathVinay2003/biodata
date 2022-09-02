@@ -1,0 +1,18 @@
+#table{
+    margin-left: 20%;
+    margin-top: 50px;
+    border: 3px solid black;
+    border-radius: 10px;
+    width: 700px;
+}
+table,td{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+table{
+    line-height: 50px;
+}
+body{
+    background: lightblue url("logo.png")  no-repeat top right;
+}
