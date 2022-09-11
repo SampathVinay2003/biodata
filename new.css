@@ -9,6 +9,13 @@
     height: 310px;
     display: block;
 }
+body{
+    background: url("sky.webp");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
+}
 h3{
     color: white;
     background-color: #00005e;
